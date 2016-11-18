@@ -1,0 +1,13 @@
+.wps_left{
+	width:190px;
+	float:left;
+}
+.wps_label{
+	padding: 0px 15px 0px 0px;
+	vertical-align: top;
+	font-size: 18px;
+	font-weight: 500;
+}
+.wps-donate a{
+	text-decoration: none;
+}
